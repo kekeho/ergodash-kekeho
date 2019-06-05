@@ -1,16 +1,16 @@
 # My ergodash Keymap
 
+## Layer0 (default)
+
+![Layer0 image](./img/Layer0.png)
+
 ## Layer1
 
-![Layer1 image](./img/Layer0.png)
+![Layer1](./img/Layer1.png)
 
 ## Layer2
 
-![Layer2](./img/Layer1.png)
-
-## Layer3
-
-![Layer3 image](./img/Layer2.png)
+![Layer2 image](./img/Layer2.png)
 
 ## Thanks to QMK.fm
 
